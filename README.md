@@ -1,6 +1,6 @@
 # Graph Database Resources  
 
-[neo4j] Neo4j is a graph database management system
+[neo4j] - Neo4j is a graph database management system
 
 [O’Reilly’s Graph Databases] - Free book download
 
